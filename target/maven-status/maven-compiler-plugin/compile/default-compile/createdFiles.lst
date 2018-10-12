@@ -1,0 +1,7 @@
+com\realdolmen\examen\examenprogrammeren2\MovieFacade.class
+com\realdolmen\examen\examenprogrammeren2\NoQueryPossibleException.class
+com\realdolmen\examen\examenprogrammeren2\StringCanNotBeAddedException.class
+com\realdolmen\examen\examenprogrammeren2\MovieService.class
+com\realdolmen\examen\examenprogrammeren2\Movie.class
+com\realdolmen\examen\examenprogrammeren2\MovieRepository.class
+com\realdolmen\examen\examenprogrammeren2\ClassToTest.class
